@@ -1,10 +1,6 @@
 <h1> Health Challenge Tracker</h1>
 
 <h2>Overview</h2>
-<p>
-Health Challenge Tracker is a single-page application (SPA) developed using Angular 14+. This application allows users to track their workouts, manage workout data, and visualize workout progress through various features. It is designed to help users maintain their fitness goals and monitor their activities efficiently.</p>
-
-<h2>Features</h2>
 
 <h3> User Input</h3>
 - <b> Add User Details:</b> Allows users to input their name, workout type, and workout duration.
@@ -23,13 +19,6 @@ Health Challenge Tracker is a single-page application (SPA) developed using Angu
 
 <h3> Responsive Design </h3>
 - <b>Responsive UI:</b> The application is designed to be responsive and user-friendly, making it accessible on various devices.
-
-<h3> Screenshots</h3>
-
-![]https://github.com/ichhakumari/Health-Challenge-Tracker-master/blob/main/Screenshot%202024-07-20%20193534.png
-<br>
-![]https://github.com/ichhakumari/Health-Challenge-Tracker-master/blob/main/Screenshot%202024-07-20%20193713.png
-
 
 
 <h3> Getting Started</h3>
@@ -80,9 +69,4 @@ To build the project, run:
 ng build
 
 The build artifacts will be stored in the `dist/` directory.</p>
-
-
-<h3> Contact</h3>
-
-For any questions, please contact [ichha2111@gmail.com](mailto:ichha2111@gmail.com).
 
